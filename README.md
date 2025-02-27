@@ -4,6 +4,7 @@
     <img src="icon.ico" alt="Anime App Icon" width="100" height="100">
 </p>
 
+---
 线上版（比本地更好用）：[itsuyo.top - anime browser](https://itsuyo.top/anime-browser/)
 
 欢迎使用 **动漫源查询应用**！这是一个简单易用的动漫源查询工具，允许用户搜索并查看动漫的详细信息，包括封面、年份、状态、标签、简介等内容。可以寻找**免费的动漫源**！  
