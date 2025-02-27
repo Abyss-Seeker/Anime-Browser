@@ -1,6 +1,8 @@
 # 动漫源查询应用
 
-![Anime App Icon](icon.ico)
+<p align="center">
+    <img src="icon.ico" alt="Anime App Icon" width="100" height="100">
+</p>
 
 线上版（比本地更好用）：[itsuyo.top - anime browser](https://itsuyo.top/anime-browser/)
 
